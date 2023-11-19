@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  padding: 20px;
+  color: #fff;
+  background-color: black;
+  border-radius: 20px;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+  border: none;
+  margin: 30px;
+}
